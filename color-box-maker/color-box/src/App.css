@@ -1,0 +1,32 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.Box {
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+}
+
+.Box button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
